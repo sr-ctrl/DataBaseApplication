@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Database App</string>
+    <string name="FirstNameText">First Name :</string>
+    <string name="FirstNameTextField">Enter First Name</string>
+    <string name="SecondNameTextField">Enter Second Name</string>
+    <string name="LastNameText">Last Name :</string>
+    <string name="Email_id">Email Id:</string>
+    <string name="EmailText">Email :</string>
+    <string name="UserMailId">Enter Email</string>
+    <string name="submitButton">Register</string>
+    <string name="List_of_Users_text">List of Registered Users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="PasswordText">Password:</string>
+    <string name="PasswordTextFiels">Enter Password</string>
+    <string name="UserNameTextView">User Name:</string>
+    <string name="UsernameTextField">Enter User Name</string>
+    <string name="backButton">Back</string>
+    <string name="Login_text">Login</string>
+    <string name="Hello">Hello,</string>
+    <string name="Login_button">Login</string>
+    <string name="signupText">Sign Up!</string>
+
+
+
+    <string name="sign_in_hint_text">please enter your\ndetails to sign in</string>
+    <string name="hello_text">Hello!</string>
+    <string name="sign_up_text">Sign up</string>
+    <string name="dont_have_account_text">Don\'t have an account?</string>
+    <string name="forgot_pin_text">forgot your pin?</string>
+    <string name="sign_in_text">Sign in</string>
+    <string name="password_text">Password</string>
+    <string name="email_string">Email</string>
+    <string name="register_text">Register</string>
+    <string name="already_have_account_text">Already have an account?</string>
+    <string name="confirm_password_text">Confirm Password</string>
+    <string name="agree_terms_conditions_text">I agree to the terms &amp; conditions</string>
+    <string name="successfully_registered_string">You have successfully registered\nyour account. You can now sign in</string>
+    <string name="intro_text">Connect with your business partners\nand associates using the new platform</string>
+    <string name="skip_introduction_text">Skip Introduction</string>
+
+
+</resources>

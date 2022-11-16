@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#6200EE</color>-->
+<!--    <color name="colorPrimaryDark">#3700B3</color>-->
+<!--    <color name="colorAccent">#000000</color>-->
+
+    <color name="colorPrimary">#B2380628</color>
+    <color name="colorPrimaryDark">#380628</color>
+    <color name="colorAccent">#D02764</color>
+    <color name="light_pink">#FCE4EC</color>
+
+    <color name="faint_text_color">#AAA8A8</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+
+    <color name="red">#FF0000</color>
+    <color name="warning">#ffc107</color>
+    <color name="yellow">#FCC038</color>
+    <color name="bg_color">#FFF3F3</color>
+    <color name="green">#00C795</color>
+</resources>
